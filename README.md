@@ -21,3 +21,5 @@
 запуск JSON server: json-server --watch database.json
 
 запуск линтера: npx eslint dist/main.js
+
+PS файл webpack.config.js оставила на память, он здесь не используется
